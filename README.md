@@ -1,4 +1,4 @@
-Online Hotel Reservation System
+**Online Hotel Reservation System**
 
 This repository contains a Java-based Online Hotel Reservation System, developed as a second-year, semester-one project. The system is designed to streamline the hotel booking process with a focus on user-friendly functionality and efficient management.
 
@@ -19,8 +19,8 @@ Java Swing: For an interactive and responsive graphical user interface.
 MySQL: For managing hotel and user data with relational database design.
 
 Java (JDK): Backend functionality, including booking logic and error handling.
-**
-Highlights**
+
+**Highlights**
 
 User-Friendly Design: Intuitive UI simplifies navigation and booking processes.
 
